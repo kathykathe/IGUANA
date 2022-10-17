@@ -1,0 +1,90 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+.contenido{
+    text-align: center;
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.fondo-cafe{
+    background-color: #1E1A13;
+    
+}
+
+.altura-div-348px{
+    height: 348px;
+}
+
+.padding-60px{
+    padding-top: 60px;
+}
+
+.display-nline-block{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.article-tamano{
+
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.text-justificate{
+    text-align: justify;
+    font-weight: 100;
+}
+
+.tamano-iguana1{
+    width: 399px;
+    height: 237px;
+}
+
+#img-head{
+    height: 727px;
+    width: 1280px;
+    background-image: url("../img/bg-header.jpg");
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section-tamano{
+    width: 20%;
+}
+
+.section-tamano img{
+    width: 50px;
+}
+
+.ancho-imagenes-final{
+    width: 316px;
+    vertical-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 202px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tamano-footer{
+    height: 102px;
+    width: 100%;
+    font-weight: 300;
+}
+
+.margin-centrar{
+    padding-top: 30px;
+}
